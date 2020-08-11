@@ -1,0 +1,16 @@
+How to play:
+You are in the fab lab! Collect things that are permitted in the fab lab to gain points. If you collect forbidden items, you lose points.
+
+Points List:
+Permitted Items:
+SUTD Card (+120)
+Long Pants (+60)
+Jeans (+45)
+Sneakers (+25)
+
+Forbidden Items:
+Shorts (-35)
+Heels (-30)
+Drink (-20)
+Skirt (-20)
+Slippers (-10)

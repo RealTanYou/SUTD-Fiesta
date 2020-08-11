@@ -1,0 +1,2 @@
+Move up or down to select a mod.
+Move left or right to move between pillars.

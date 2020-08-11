@@ -1,0 +1,13 @@
+How to play:
+Your break is too short! Run to canteen from building 1 as fast as possible! If you get hit by
+birds or other items, you will not be able to reach canteen earlier than your other friends.
+
+If you have less than 4 players, the characters that do not have players will move automatically
+without colliding with obstacles! 
+
+List of obstacles:
+
+Chair
+Table
+Garbage bin
+Bird

@@ -1,0 +1,17 @@
+{
+  "ISTD":["Computation Structures","Introduction to Algorithms","Computer System Engineering","Elements of Software Construction",
+     "Computational Fabrication","Machine Learning","Network Security","Artificial Intelligence","Computer Vision","Blockchain Technology",
+    "Computational Data Science","Natural Language Processing","System Security","Foundations of Cybersecurity"],
+  "EPD":["Circuits & Electronics","Systems & Control","Fluid Mechanics","Structures & Materials","Engineering Design Innovation","Dynamics","Machine Element Design",
+  "Power Electronics","Material Science","Digital System Laboratory","Entrepreneurship","Digital Signal Processing","Healthcare Product Design","Introduction To Nano-Electronics",
+"Intelligent Robotics","Design & Manufacturing"],
+  "ESD":["Probability", "Optimisation", "Statistics","Data and Business Analytics","Engineering Systems Architecture","Manufacturing and Service Operations","Simulation Modelling and Analysis",
+  "The Analytics Edge","Sustainable Engineering","Water Resources Management","Investment Science","Supply Chain Management","Game Theory","Financial Systems Design",
+"Equity Valuation"],
+  "ASD":["Creative Machine Learning", "Augmented Design","Sustainable Design","Computational Thinking For Design","Urban Sketching","Urban Housing Typologies","Thesis Preparation",
+  "Paradignms of Adaptation","Integrated Building Design","Urban Analysis","Architectural Energy Systems","Building Information Modeling","History, Theory and Culture",
+"Digital Design and Fabrication","Introduction to Design Computing"],
+  "HASS":["The World Since 1400", "Being and Time", "Introduction to Psychology","Critical Management Studies","The Question of Technology","Organizational Processes","Gender Sexuality and Society",
+  "Unnatural Disasters","Leaders & Followers","Design in the Anthropocene","Lyric Poetry","Artificial Intelligence and Ethics","Digital Sociology","Global Shakespeares",
+"Introduction to Digital Humanities","Ethics and Social Responsibility","Organizations and People","Microeconomics","Decision Theory and Practice","Space and Power","The Laboratory of the Mind"]
+}

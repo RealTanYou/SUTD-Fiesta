@@ -1,0 +1,11 @@
+How to play:
+
+Each player has to book all of the mods listed below in each of their browsers to win!
+
+Players order is from 1 on the left, to 4 on the right.
+
+When the player selects the right mod from the right pillar, a timing bar will appear, and the player has to hit the cursor within the center to get a successfull hit. If the player miss, they will have to restart the timing minigame.
+
+If the player miss the timing, or selects a wrong mod, a sound cue will be played.
+
+The first player to get 8 mods will win, with a 10 second countdown for the other players to get 2nd, 3rd and 4th respectively.
